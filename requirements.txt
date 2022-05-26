@@ -161,7 +161,7 @@ stripe==2.48.0
 tabula==1.0.5
 tabula-py==2.0.4
 tensorboard==2.0.2
-tensorflow==2.0.0
+tensorflow==2.7.2
 tensorflow-estimator==2.0.1
 tensorflow-examples @ git+https://github.com/tensorflow/examples.git@bb80bf41a6d76abd9e5229f687095ed32a9e5672
 termcolor==1.1.0
